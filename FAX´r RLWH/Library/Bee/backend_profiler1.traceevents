@@ -1,0 +1,554 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1643992861505121, "dur":1503, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992861506632, "dur":57, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1643992861506702, "dur":21, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1643992861506725, "dur":595, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1643992861507344, "dur":597, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992861507942, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862146995, "dur":76, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147071, "dur":130, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147201, "dur":5, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147206, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147229, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147232, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147254, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147256, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147265, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147267, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147272, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147274, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147280, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147281, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147287, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147288, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147293, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147294, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147299, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147301, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147306, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147307, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147312, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147313, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147317, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147319, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147324, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147325, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147330, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147332, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147337, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147338, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147343, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147353, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862147414, "dur":1429, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1643992861507534, "dur":415, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861507951, "dur":5596, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861513559, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1643992861513570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861514479, "dur":375, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1643992861514857, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1643992861514914, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861515229, "dur":4464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1643992861519696, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861519767, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861519773, "dur":18600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861538418, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861538466, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861538475, "dur":82269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861620774, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861620829, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861620835, "dur":135635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861756530, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861756586, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861756592, "dur":130197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861886836, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861886887, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861886893, "dur":14689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861901631, "dur":702, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861902337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861902348, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.RuntimeDebugger.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861904145, "dur":24928, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861929077, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861929085, "dur":885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Management.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861930007, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861930043, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861930048, "dur":42397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861972482, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861972537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861972545, "dur":25937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861998526, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992861998567, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1643992861998575, "dur":62879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1643992862061479, "dur":85462, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861507602, "dur":361, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861507963, "dur":5595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861513559, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1643992861513674, "dur":383, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861514058, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861514145, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861515352, "dur":106876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861622287, "dur":113939, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861736231, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861736239, "dur":20860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861757148, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861757217, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861757224, "dur":130524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861887829, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861887896, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861887902, "dur":31525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861919463, "dur":76535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861996005, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861996016, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861998129, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992861998168, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1643992861998176, "dur":62709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1643992862060914, "dur":86032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861507577, "dur":377, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861507954, "dur":6061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861514016, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861514093, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861515478, "dur":27441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861542966, "dur":189424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861732397, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861732407, "dur":22085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861754527, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861754567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861754572, "dur":130347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861884996, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861885135, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992861885142, "dur":33228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992861918408, "dur":136546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992862054960, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1643992862054972, "dur":1192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1643992862056215, "dur":90743, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861507594, "dur":365, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861507959, "dur":5594, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861513559, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1643992861513982, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861514065, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861514141, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861515475, "dur":14836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861530351, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861530398, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861530404, "dur":88788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861619236, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861619280, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861619284, "dur":136183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861755560, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861755623, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861755629, "dur":131628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861887302, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861887367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861887374, "dur":14922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861902344, "dur":563, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861902910, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861902917, "dur":2898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.OculusQuestSupport.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861905927, "dur":53796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861959728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861959737, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.CoreUtils.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861961305, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861961349, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861961355, "dur":21749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861983140, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992861983178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1643992861983187, "dur":68605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1643992862051830, "dur":95090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861507643, "dur":324, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861507967, "dur":5612, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861513579, "dur":395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1643992861513974, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861514055, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861514143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861515458, "dur":15510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861531007, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861531055, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861531060, "dur":90956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861622079, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861622135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861622142, "dur":110698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861732886, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861732931, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861732935, "dur":156556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861889548, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861889606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861889612, "dur":71744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861961391, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992861961428, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1643992861961434, "dur":97480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1643992862058942, "dur":88011, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861507672, "dur":299, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861507971, "dur":5749, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861513720, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1643992861513772, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861513831, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861513895, "dur":45, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861513941, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861514020, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861530004, "dur":91367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861621416, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861621475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861621481, "dur":131586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861753109, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861753147, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861753152, "dur":5718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861758920, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861758977, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861758986, "dur":127491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861886524, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861886572, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861886578, "dur":66016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861952631, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992861952672, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992861952678, "dur":53980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992862006696, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992862006736, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1643992862006744, "dur":139954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":6, "ts":1643992862146739, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":6, "ts":1643992862146741, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861507710, "dur":266, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861507976, "dur":5902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861513878, "dur":27722, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861541606, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861541620, "dur":76085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861617741, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UaaLAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861617785, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861617791, "dur":136195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UaaLAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861754023, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861754066, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861754072, "dur":131618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861885738, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861885789, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861885794, "dur":21017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861906855, "dur":36869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861943731, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861943743, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861944713, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992861944750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992861944776, "dur":62696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992862007515, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992862007557, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1643992862007564, "dur":99154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1643992862106746, "dur":40179, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861507748, "dur":232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861507980, "dur":5579, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861513560, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1643992861513732, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861513783, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861513851, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861513910, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861514017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861520037, "dur":101555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861621632, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861621676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861621680, "dur":135369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861757090, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861757139, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861757145, "dur":133104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861890284, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861890327, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861890334, "dur":25196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861915570, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861915614, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861915622, "dur":36205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861951865, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992861951905, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992861951913, "dur":85441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1643992862037392, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1643992862037431, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992862037439, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1643992862038601, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862038640, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992862038674, "dur":834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862039542, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862039579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992862039585, "dur":768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862040396, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862040445, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992862040452, "dur":879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1643992862041378, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1643992862041432, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1643992862041438, "dur":11881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1643992862053374, "dur":93591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861507783, "dur":199, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861507982, "dur":5593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513575, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513666, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513752, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513844, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513905, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861513977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861519620, "dur":20414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861540068, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861540115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861540121, "dur":82021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861622194, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861622253, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861622259, "dur":133683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861756044, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861756106, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861756113, "dur":130211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861886370, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861886440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861886448, "dur":14312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861900812, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861900862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861900871, "dur":15703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861916607, "dur":42038, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861958651, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861958664, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861959884, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992861959925, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992861959931, "dur":58378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992862018347, "dur":22009, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992862040359, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992862040367, "dur":1053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1643992862041469, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1643992862041525, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992862041532, "dur":3044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1643992862044615, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level3.resS" }}
+,{ "pid":12345, "tid":9, "ts":1643992862044656, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992862044663, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level3.resS" }}
+,{ "pid":12345, "tid":9, "ts":1643992862046181, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1643992862046217, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992862046222, "dur":3310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level1" }}
+,{ "pid":12345, "tid":9, "ts":1643992862049575, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1643992862049616, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1643992862049621, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1643992862051816, "dur":95163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861507828, "dur":157, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861507985, "dur":6001, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861513986, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861514058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861530661, "dur":88527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861619246, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861619313, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861619320, "dur":134296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861753665, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861753723, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861753732, "dur":134775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861888567, "dur":442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861889013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861889021, "dur":36910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861925991, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992861926168, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1643992861926176, "dur":140738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1643992862066954, "dur":79982, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861507862, "dur":126, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861507988, "dur":5730, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861513719, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1643992861513776, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861513841, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861513905, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861513959, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861514017, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861525108, "dur":95849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861621014, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861621078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861621084, "dur":134689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861755823, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861755878, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861755914, "dur":129277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861885232, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861885289, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861885295, "dur":17636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861902978, "dur":573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861903553, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861903559, "dur":3681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.MockRuntime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861907276, "dur":46571, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861953851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861953859, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861955099, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992861955139, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992861955168, "dur":70135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992862025341, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992862025385, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862025919, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Plugins/x86_64/UnityOpenXR.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992862027144, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992862027186, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862027298, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Plugins/x86_64/openxr_loader.dll" }}
+,{ "pid":12345, "tid":11, "ts":1643992862029034, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862029078, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862029438, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/UnitySubsystems/UnityOpenXR/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862030999, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862031040, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862031286, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/UnitySubsystems/OculusXRPlugin/UnitySubsystemsManifest.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862032771, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1643992862032808, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862032848, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1643992862034628, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":11, "ts":1643992862034677, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862034685, "dur":8183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":11, "ts":1643992862042901, "dur":1638, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862044544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862044551, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":11, "ts":1643992862046074, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level2" }}
+,{ "pid":12345, "tid":11, "ts":1643992862046113, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862046118, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level2" }}
+,{ "pid":12345, "tid":11, "ts":1643992862048219, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1643992862048265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1643992862048275, "dur":2456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1643992862050780, "dur":96211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861507883, "dur":109, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861507992, "dur":5569, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513562, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513675, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513783, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513850, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513908, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861513977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861519184, "dur":100206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861619415, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861619450, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861619454, "dur":135826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861755343, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861755421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861755428, "dur":133812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861889281, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861889332, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861889341, "dur":14458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861903841, "dur":59388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861963235, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861963247, "dur":928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861964209, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992861964247, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1643992861964252, "dur":111879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":12, "ts":1643992862076185, "dur":70745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861507920, "dur":75, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861507996, "dur":5567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861513565, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1643992861513668, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861513727, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":13, "ts":1643992861513779, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861513842, "dur":217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1643992861514059, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861514124, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861514180, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861515500, "dur":19972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861535514, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861535568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861535577, "dur":86322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861621947, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861622008, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861622015, "dur":133206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861755254, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861755322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861755333, "dur":128656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861884030, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861884080, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861884088, "dur":19443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861903571, "dur":746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861904321, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861904330, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.OpenXR.Features.ConformanceAutomation.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861906995, "dur":61879, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861968908, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861968919, "dur":2869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861971834, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992861971877, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1643992861971886, "dur":109423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":13, "ts":1643992862081338, "dur":65645, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861507952, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861507953, "dur":5602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513559, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513672, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513739, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513791, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513854, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp.exe" }}
+,{ "pid":12345, "tid":14, "ts":1643992861513925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861515145, "dur":27753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp.exe" }}
+,{ "pid":12345, "tid":14, "ts":1643992861542950, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861543009, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861543019, "dur":214160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861757225, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861757350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861757357, "dur":128718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861886133, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861886210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861886219, "dur":19092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861905354, "dur":44330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861949691, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861949704, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Interaction.Toolkit.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861958623, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992861958753, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992861958762, "dur":41471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992862000269, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992862000308, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992862000316, "dur":42305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":14, "ts":1643992862042671, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1643992862042795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992862042804, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":14, "ts":1643992862043629, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1643992862043666, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992862043673, "dur":2343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1643992862046056, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level3" }}
+,{ "pid":12345, "tid":14, "ts":1643992862046103, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992862046112, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level3" }}
+,{ "pid":12345, "tid":14, "ts":1643992862050465, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1643992862050575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1643992862050582, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/boot.config" }}
+,{ "pid":12345, "tid":14, "ts":1643992862052077, "dur":94892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861507977, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861507977, "dur":5580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513571, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513685, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513759, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513822, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513877, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861513939, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861515943, "dur":105939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861621933, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861622002, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861622008, "dur":134348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861756417, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861756478, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861756486, "dur":130928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861887460, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861887512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861887518, "dur":16399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861903958, "dur":41503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Oculus.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861945465, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861945472, "dur":923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.XR.Oculus.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861946428, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992861946465, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992861946471, "dur":102989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1643992862049502, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1643992862049544, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1643992862049551, "dur":2394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":15, "ts":1643992862051989, "dur":94985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861508011, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861508011, "dur":5554, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513565, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513669, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513751, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513808, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513863, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1643992861513918, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861515484, "dur":6682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1643992861522213, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861522266, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861522274, "dur":17062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861539372, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861539417, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861539424, "dur":81559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861621028, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861621091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861621096, "dur":132089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861753215, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861753264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861753270, "dur":136192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861889507, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861889555, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861889561, "dur":28981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861918579, "dur":1196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861919779, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861919789, "dur":773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/Unity.Subsystem.Registration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861920594, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861920630, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861920636, "dur":53231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861973901, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992861973935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992861973941, "dur":74353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1643992862048340, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1643992862048416, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1643992862048424, "dur":2401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Kai/Documents/GitHub/TestBuilds/Prototyp/FaxrPrototyp_Data/level0" }}
+,{ "pid":12345, "tid":16, "ts":1643992862050862, "dur":96125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1643992862150019, "dur":1700, "ph":"X", "name": "ProfilerWriteOutput" }
+,
